@@ -849,8 +849,16 @@ class WebDev100Days {
         category: "productivity",
         technologies: ["HTML", "CSS", "JavaScript", "Chart.js"],
         features: ["Daily Steps & Water Input", "Dark/Light Mode", "Chart.js Visualizations", "Responsive Design", "Duplicate Prevention", "Tooltips on Charts"]
-       }
-
+       },
+{
+  originalDay: 145,
+   name: "Testimonial Carousel",
+    description: "A responsive testimonial carousel to showcase user reviews with smooth animations.",
+     demoLink: "./public/Testimonial_Carousel/index.html",
+      category: "UI Components",
+       technologies: ["HTML", "CSS", "JavaScript"],
+        features: ["Carousel", "Responsive Design", "Smooth Transitions"]
+},
 
 
       
