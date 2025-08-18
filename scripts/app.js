@@ -1098,28 +1098,26 @@ class WebDev100Days {
         features: ["Music", "Drum"]
       },
 
-      {
-        originalDay: 165,
-        name: "Memory Grid Rush",
-        description: "Fast-paced memory game where players repeat flashing grid patterns that get progressively harder with each level.",
-        demoLink: "./public/Memory_Grid_Rush/index.html",
-        category: "games",
-        technologies: ["HTML", "CSS", "JavaScript"],
-        features: [
-          "Dynamic grid scaling, pattern generation & replay, dark/light mode, score & level tracking, keyboard accessibility, animated feedback, and replay option."
-        ]
-      }, 
-      
-      {
-         originalDay:166, 
-         name: "Salon Website ",
-          description: "Firt Cut Free",
-          demoLink: "./public/Salon-Website/index.html",
-          category: "creativity",
-          technologies: ["HTML", "CSS", "JavaScript"],
-
-  },
-
+   {
+  originalDay: 165,
+  name: "Memory Grid Rush",
+  description: "Fast-paced memory game where players repeat flashing grid patterns that get progressively harder with each level.",
+  demoLink: "./public/Memory_Grid_Rush/index.html",
+  category: "games",
+  technologies: ["HTML", "CSS", "JavaScript"],
+  features: [
+    "Dynamic grid scaling, pattern generation & replay, dark/light mode, score & level tracking, keyboard accessibility, animated feedback, and replay option."
+  ]
+}, 
+{
+  originalDay: 166, 
+  name: "Salon Website",
+  description: "First Cut Free",
+  demoLink: "./public/Salon-Website/index.html",
+  category: "creativity",
+  technologies: ["HTML", "CSS", "JavaScript"],
+  features: ["salon", "cutting", "glow up"]
+},
 {
   originalDay: 164,
   name: "Library Book Manager",
@@ -1137,18 +1135,6 @@ class WebDev100Days {
   ]
 },
 {
-  originalDay: 165,
-  name: "Memory Grid Rush",
-  description: "Fast-paced memory game where players repeat flashing grid patterns that get progressively harder with each level.",
-  demoLink: "./public/Memory_Grid_Rush/index.html",
-  category: "games",
-  technologies: ["HTML", "CSS", "JavaScript"],
-  features: [
-    "Dynamic grid scaling, pattern generation & replay, dark/light mode, score & level tracking, keyboard accessibility, animated feedback, and replay option."
-  ]
-},
-
-{
   originalDay: 168,
   name: "Testimonial Carousel",
   description: "A stylish and responsive carousel component to showcase user testimonials with animations, auto-slide, and navigation controls.",
@@ -1162,13 +1148,9 @@ class WebDev100Days {
     "Fully responsive design for all devices",
     "Lightweight and easy-to-integrate UI component"
   ]
-},
-    {
-      features: ["salon", "cutting", "glow up"]
-    },
-    {
-      features: ["Gym", "Weight", "Fitness"]
-    }
+}
+
+   
 
 
 
